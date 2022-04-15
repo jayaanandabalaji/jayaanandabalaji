@@ -19,11 +19,11 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://www.fiverr.com/balajikannan03"><img src="https://logos-world.net/wp-content/uploads/2020/12/Fiverr-Logo-2020-present.png" height="100"></a>
+<a href="https://www.fiverr.com/balajikannan03" target="_blank"><img src="https://logos-world.net/wp-content/uploads/2020/12/Fiverr-Logo-2020-present.png" height="100"></a>
 <p align="left">
 </p>
 
-<a href="https://wa.me/919444036945"><img src="https://lh3.googleusercontent.com/pw/AM-JKLX1QAb07Ww16dcpV-zgqGPsXFcI7nEbLp3grXXLxfu-pKKkWtowzRQokpHyDph9EEQ4OKo99__2unru5q9MqNhqnfqW-er7180gpL36afCRR1dLTk7tx0rpA0NVobO3FDmCA_31NYwznnEvPu7TuYI=w150-h50-no?authuser=0" ></a>
+<a href="https://wa.me/919444036945" target="_blank"><img src="https://lh3.googleusercontent.com/pw/AM-JKLX1QAb07Ww16dcpV-zgqGPsXFcI7nEbLp3grXXLxfu-pKKkWtowzRQokpHyDph9EEQ4OKo99__2unru5q9MqNhqnfqW-er7180gpL36afCRR1dLTk7tx0rpA0NVobO3FDmCA_31NYwznnEvPu7TuYI=w150-h50-no?authuser=0" ></a>
 <p align="left">
 </p>
 
