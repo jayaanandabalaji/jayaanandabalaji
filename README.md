@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **jayaanandabalaji@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ThcCqNzI49v6HBaN0jyXPY6OElUg3fXv/view?usp=sharing](https://drive.google.com/file/d/1ThcCqNzI49v6HBaN0jyXPY6OElUg3fXv/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 
