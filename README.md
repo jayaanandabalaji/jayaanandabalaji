@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayaanandabalaji&label=Profile%20views&color=0e75b6&style=flat" alt="jayaanandabalaji" /> </p>
 
-- 🔭 I’m currently working on [LearnGun - White label LMS App](https://play.google.com/store/apps/details?id=com.learngun.courses)
-
 - 🌱 I’m currently learning **Java, python, laravel, php, Sql, wordpress**
 
 - 👯 I’m looking to collaborate on [building flutter androis, ios apps and website admin panel](https://www.fiverr.com/balajikannan03)
